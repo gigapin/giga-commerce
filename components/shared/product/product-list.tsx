@@ -1,4 +1,4 @@
-import ProductCard from "@/components/shared/product/product-card";
+/* import ProductCard from "@/components/shared/product/product-card";
 
 const ProductList = ({
   data,
@@ -30,4 +30,4 @@ const ProductList = ({
   );
 };
 
-export default ProductList;
+export default ProductList; */
