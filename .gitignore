@@ -4,6 +4,9 @@
 /public/images
 /sample-data
 
+# Prisma generated
+/lib/generated/prisma/
+
 # production
 /.next
 /out
